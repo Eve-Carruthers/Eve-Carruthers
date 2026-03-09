@@ -15,12 +15,11 @@ I turn complex workflows into tools people can actually use.
 
 ## Highlights
 
-- Built an end-to-end ANSYS CFD automation pipeline for STEM racing with multi-stage fallback logic, structured run summaries, and repeatable artifact packaging
+- Built an end-to-end ANSYS CFD automation pipeline for STEM racing with multi-stage fallback logic, structured run summaries, and repeatable artefact packaging
 - Extended the pipeline with force parsing, vector/curvature analysis, isophotes, sweeps, mesh-independence studies, and config-driven batch execution
 - Reported simulation-to-track agreement within about 0.8% on the best measured run in STEM racing validation work
 - Built Aervolix, a simulation workflow platform that connects a web control plane, FastAPI orchestration backend, and local agent execution with qualification reporting
 - Built a CERN H->4l analysis toolkit with a Python CLI and interactive web dashboard for reproducing Higgs-to-four-lepton workflows on open data
-- Built Siftly, a self-hosted AI bookmark intelligence app (import, analyse, categorise, search, export)
 
 ## Featured Projects
 
