@@ -2,6 +2,7 @@
 
 Computational engineer and full-stack developer building reliable systems across simulation, scientific analysis, and product engineering.
 
+evecarruthers.com | teamekleipsis.com | pitwallapp.xyz
 Email: evemarycarruthers@gmail.com  
 GitHub: https://github.com/Eve-Carruthers
 
